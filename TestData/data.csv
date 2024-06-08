@@ -1,0 +1,2 @@
+email_subject,recipient_type,amount_value,amount_currency,receiver,note,sender_item_id
+You have a payout!,EMAIL,1.00,USD,receiver@example.com,Payout note,item_1
